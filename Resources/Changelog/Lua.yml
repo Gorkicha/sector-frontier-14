@@ -3551,3 +3551,10 @@ Entries:
   id: 246
   time: '2026-03-06T14:25:36.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/491
+- author: Raldjatech
+  changes:
+    - type: Fix
+      message: Исправлен набор Sil`а
+  id: 247
+  time: '2026-03-06T14:26:00.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/490
