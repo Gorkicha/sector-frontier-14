@@ -3520,3 +3520,12 @@ Entries:
   id: 243
   time: '2026-03-05T12:05:37.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/454
+- author: Vecortys
+  changes:
+    - type: Tweak
+      message: >-
+        Зелёное крио более не открывает роль для late-join'а через лобби. Для
+        освобождения роли пользуйтесь синим.
+  id: 244
+  time: '2026-03-06T02:55:35.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/489
