@@ -3572,3 +3572,12 @@ Entries:
   id: 249
   time: '2026-03-09T13:41:36.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/495
+- author: 25Hydra08
+  changes:
+    - type: Add
+      message: добавлен звук шипения газовому насосу
+    - type: Remove
+      message: убран звук шипения пассивного клапана
+  id: 250
+  time: '2026-03-09T14:30:16.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/497
